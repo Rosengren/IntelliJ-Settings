@@ -1,0 +1,27 @@
+<code_scheme name="Default (1)">
+  <option name="LAYOUT_STATIC_IMPORTS_SEPARATELY" value="false" />
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+  <option name="IMPORT_LAYOUT_TABLE">
+    <value>
+      <package name="" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="javax" withSubpackages="true" static="false" />
+      <package name="java" withSubpackages="true" static="false" />
+      <emptyLine />
+    </value>
+  </option>
+  <JavaCodeStyleSettings>
+    <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
+  </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <indentOptions>
+      <option name="USE_RELATIVE_INDENTS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
