@@ -1,5 +1,10 @@
-<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Custom" parent="Mac OS X 10.5+">
   <action id="Console.Jpa.GenerateSql" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="meta alt enter" />
@@ -32,4 +37,6 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TagDocumentationNavigation" />
+  <action id="Uml.ShowDiff" />
 </keymap>
